@@ -1,6 +1,6 @@
 <a name="___top"></a>
 # cloc
-*Count Lines of Code*
+*Kod Satırını Öğren*
 
 * * *
 cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
